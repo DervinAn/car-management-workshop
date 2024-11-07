@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1715485188 source:c:\users\shift-tech\desktop\uinv study\tp02 s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+
